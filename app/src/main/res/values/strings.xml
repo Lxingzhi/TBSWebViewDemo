@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tbsWebViewDemo</string>
+    <string name="diary_title">日记标题</string>
+    <string name="temp_show_time">2017-3-8</string>
+    <string name="study_note">学习心得</string>
+    <string name="temp_show_name">张某某</string>
+    <string name="engine">底盘发动机</string>
+</resources>

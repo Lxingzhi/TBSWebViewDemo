@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/tbs_test_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打开网页"/>
+
+    <Button
+        android:id="@+id/tbs_test_btn_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打开视频"/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NoteEditText">
+        <!--最大行数-->
+        <attr name="max_note_line" format="integer|dimension" />
+
+        <attr name="note_line_color" format="color|reference" />
+        <attr name="note_line_height" format="dimension" />
+        <!--是否显示下划线-->
+        <attr name="note_line_visiable" format="boolean" />
+    </declare-styleable>
+    <string-array name="dialog_settings_resolution_array">
+        <item>176x144</item>
+        <item>320x240</item>
+        <item>480x320</item>
+        <item>640x480</item>
+        <item>720x480</item>
+        <item>720x640</item>
+        <item>1024x720</item>
+        <item>1280x1080</item>
+    </string-array>
+</resources>
